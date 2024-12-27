@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://drhn.my.id</id>
+    <title>drhn</title>
+    <updated>2024-12-27T17:22:16.946Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://drhn.my.id"/>
+    <link rel="self" href="https://drhn.my.id/atom.xml"/>
+    <subtitle>blog lain dari dirman hana</subtitle>
+    <logo>https://drhn.my.id/images/avatar.png</logo>
+    <icon>https://drhn.my.id/favicon.ico</icon>
+    <rights>All rights reserved 2024, drhn</rights>
+    <entry>
+        <title type="html"><![CDATA[test dari file]]></title>
+        <id>https://drhn.my.id/post/test-dari-file/</id>
+        <link href="https://drhn.my.id/post/test-dari-file/">
+        </link>
+        <updated>2024-12-01T04:13:28.000Z</updated>
+        <content type="html"><![CDATA[<p>Lorem ipsum odor amet, consectetuer adipiscing elit. Fringilla efficitur luctus luctus, iaculis sodales mus magna nisi? Orci lacus porta vel ac; duis morbi. Venenatis fames himenaeos sodales</p>
+<p>nulla mollis arcu convallis proin. Cubilia varius auctor imperdiet porta magnis sollicitudin. Sit feugiat aenean; lobortis nunc mi congue donec tristique. Potenti efficitur nec hendrerit mus euismod lacus, habitasse dictum taciti.</p>
+<p>Fringilla justo ante sit libero in. At euismod nibh mollis luctus dapibus porta ultrices suscipit. Class montes metus duis eget ultrices laoreet velit sodales. Justo metus ante pharetra ridiculus efficitur quam ex inceptos velit. Posuere blandit nec adipiscing venenatis a etiam. Sapien vehicula mollis, ornare mollis tempus at taciti. Fames leo maecenas nibh fermentum himenaeos varius.</p>
+<p>Pharetra nascetur ultricies, nec adipiscing ex mattis nostra. Lorem hendrerit lobortis finibus fames tortor iaculis. Metus mattis hac proin elit luctus magnis libero. Diam tellus purus ultricies habitant mauris tristique primis integer. Ultrices inceptos tortor consequat magna ridiculus finibus. Lacinia nullam suspendisse quis massa sociosqu sodales. Porttitor condimentum vulputate nunc habitant a blandit metus et!</p>
+<p>Ut tincidunt himenaeos; aliquam posuere ridiculus suspendisse aptent elit felis. Duis velit morbi non malesuada amet. Torquent ac consequat nunc primis natoque aenean facilisi himenaeos eget. Tellus nulla faucibus maecenas ridiculus dui. Sodales vivamus vel leo vitae hac dis. Morbi libero ad rhoncus maecenas scelerisque viverra sed duis. Cubilia tempus cubilia porttitor magna efficitur purus.</p>
+<p>Odio justo efficitur urna; sociosqu nascetur potenti. Enim nam taciti praesent aenean gravida dapibus nascetur pretium non. In etiam fusce faucibus praesent, ut fringilla ad. Conubia aenean pretium porta fames facilisis condimentum id leo nisl. Augue varius litora mi dui eros a enim sociosqu. Cras diam fermentum porta orci iaculis interdum. Suscipit felis fusce mollis turpis malesuada blandit tellus taciti.</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ini postingan test lagi]]></title>
+        <id>https://drhn.my.id/post/ini-postingan-test-lagi/</id>
+        <link href="https://drhn.my.id/post/ini-postingan-test-lagi/">
+        </link>
+        <updated>2024-12-01T04:08:28.000Z</updated>
+        <content type="html"><![CDATA[<p>Lorem ipsum odor amet, consectetuer adipiscing elit. Fringilla efficitur luctus luctus, iaculis sodales mus magna nisi? Orci lacus porta vel ac; duis morbi. Venenatis fames himenaeos sodales</p>
+<p>nulla mollis arcu convallis proin. Cubilia varius auctor imperdiet porta magnis sollicitudin. Sit feugiat aenean; lobortis nunc mi congue donec tristique. Potenti efficitur nec hendrerit mus euismod lacus, habitasse dictum taciti.</p>
+<p>Fringilla justo ante sit libero in. At euismod nibh mollis luctus dapibus porta ultrices suscipit. Class montes metus duis eget ultrices laoreet velit sodales. Justo metus ante pharetra ridiculus efficitur quam ex inceptos velit. Posuere blandit nec adipiscing venenatis a etiam. Sapien vehicula mollis, ornare mollis tempus at taciti. Fames leo maecenas nibh fermentum himenaeos varius.</p>
+<p>Pharetra nascetur ultricies, nec adipiscing ex mattis nostra. Lorem hendrerit lobortis finibus fames tortor iaculis. Metus mattis hac proin elit luctus magnis libero. Diam tellus purus ultricies habitant mauris tristique primis integer. Ultrices inceptos tortor consequat magna ridiculus finibus. Lacinia nullam suspendisse quis massa sociosqu sodales. Porttitor condimentum vulputate nunc habitant a blandit metus et!</p>
+<p>Ut tincidunt himenaeos; aliquam posuere ridiculus suspendisse aptent elit felis. Duis velit morbi non malesuada amet. Torquent ac consequat nunc primis natoque aenean facilisi himenaeos eget. Tellus nulla faucibus maecenas ridiculus dui. Sodales vivamus vel leo vitae hac dis. Morbi libero ad rhoncus maecenas scelerisque viverra sed duis. Cubilia tempus cubilia porttitor magna efficitur purus.</p>
+<p>Odio justo efficitur urna; sociosqu nascetur potenti. Enim nam taciti praesent aenean gravida dapibus nascetur pretium non. In etiam fusce faucibus praesent, ut fringilla ad. Conubia aenean pretium porta fames facilisis condimentum id leo nisl. Augue varius litora mi dui eros a enim sociosqu. Cras diam fermentum porta orci iaculis interdum. Suscipit felis fusce mollis turpis malesuada blandit tellus taciti.</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[orks as a frontend interface ]]></title>
+        <id>https://drhn.my.id/post/orks-as-a-frontend-interface/</id>
+        <link href="https://drhn.my.id/post/orks-as-a-frontend-interface/">
+        </link>
+        <updated>2024-11-30T15:12:17.000Z</updated>
+        <summary type="html"><![CDATA[<p>Lorem ipsum odor amet, consectetuer adipiscing elit. Fringilla efficitur luctus luctus, iaculis sodales mus magna nisi? Orci lacus porta vel ac; duis morbi. Venenatis fames himenaeos sodales</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>Lorem ipsum odor amet, consectetuer adipiscing elit. Fringilla efficitur luctus luctus, iaculis sodales mus magna nisi? Orci lacus porta vel ac; duis morbi. Venenatis fames himenaeos sodales</p>
+<!-- more -->
+<p>nulla mollis arcu convallis proin. Cubilia varius auctor imperdiet porta magnis sollicitudin. Sit feugiat aenean; lobortis nunc mi congue donec tristique. Potenti efficitur nec hendrerit mus euismod lacus, habitasse dictum taciti.</p>
+<p>Fringilla justo ante sit libero in. At euismod nibh mollis luctus dapibus porta ultrices suscipit. Class montes metus duis eget ultrices laoreet velit sodales. Justo metus ante pharetra ridiculus efficitur quam ex inceptos velit. Posuere blandit nec adipiscing venenatis a etiam. Sapien vehicula mollis, ornare mollis tempus at taciti. Fames leo maecenas nibh fermentum himenaeos varius.</p>
+<p>Pharetra nascetur ultricies, nec adipiscing ex mattis nostra. Lorem hendrerit lobortis finibus fames tortor iaculis. Metus mattis hac proin elit luctus magnis libero. Diam tellus purus ultricies habitant mauris tristique primis integer. Ultrices inceptos tortor consequat magna ridiculus finibus. Lacinia nullam suspendisse quis massa sociosqu sodales. Porttitor condimentum vulputate nunc habitant a blandit metus et!</p>
+<p>Ut tincidunt himenaeos; aliquam posuere ridiculus suspendisse aptent elit felis. Duis velit morbi non malesuada amet. Torquent ac consequat nunc primis natoque aenean facilisi himenaeos eget. Tellus nulla faucibus maecenas ridiculus dui. Sodales vivamus vel leo vitae hac dis. Morbi libero ad rhoncus maecenas scelerisque viverra sed duis. Cubilia tempus cubilia porttitor magna efficitur purus.</p>
+<p>Odio justo efficitur urna; sociosqu nascetur potenti. Enim nam taciti praesent aenean gravida dapibus nascetur pretium non. In etiam fusce faucibus praesent, ut fringilla ad. Conubia aenean pretium porta fames facilisis condimentum id leo nisl. Augue varius litora mi dui eros a enim sociosqu. Cras diam fermentum porta orci iaculis interdum. Suscipit felis fusce mollis turpis malesuada blandit tellus taciti.</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://drhn.my.id/post/hello-gridea/</id>
+        <link href="https://drhn.my.id/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="https://gridea.dev/">Gridea 主页</a><br>
+<a href="https://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>
